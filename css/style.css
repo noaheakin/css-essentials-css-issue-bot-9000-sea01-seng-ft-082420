@@ -14,10 +14,10 @@ h2 {
 }
 
 .completed {
-  font-family: sans-serif;
+  font-family: 12px;
 }
 
 #tasks .completed {
   background: #ccc;
-  text-decoration: underline;
+  text-declaration: underline;
 }
